@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Albania Tour Guide</string>
+    <string name="string_1">"Places to visit</string>
+    <string name="string_3">"Albania"</string>
+    <string name="string_2">"About Albania"</string>
+    <string name="string_4">"Capital"</string>
+    <string name="string_5">"Tirana"</string>
+    <string name="string_6">"Currency</string>
+    <string name="string_7">"Lek (ALL)"</string>
+    <string name="string_8">"Calling code"</string>
+    <string name="string_9">+355</string>
+    <string name="string_10">"Time zone"</string>
+    <string name="string_11"> "UTC+1 (CET)"</string>
+    <string name="string_12">"Official language"</string>
+    <string name="string_13">"Albanian language"</string>
+    <string name="string_14">"Open hours"</string>
+    <string name="string_15">"Shkodër"</string>
+    <string name="string_16">"Shkodër is the fifth-most-populous city in Albania by population (102,075)."</string>
+    <string name="string_17">"Tirana"</string>
+    <string name="string_18">"Tirana is the most-populous city in Albania by population"</string>
+    <string name="string_19">"Vlorë"</string>
+    <string name="string_20">"Vlorë is the third-most-populous city in Albania by population (141,513)"</string>
+    <string name="string_21">"Prizren"</string>
+    <string name="string_22">"Prizren has 85,119 inhabitants, while the municipality has 177,781 inhabitants."</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
